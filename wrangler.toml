@@ -1,4 +1,4 @@
-name = "test"
+name = "mylittleproject"
 type = "javascript"
 main = "worker.js"  # Correct entry point
 compatibility_date = "2024-03-13"
